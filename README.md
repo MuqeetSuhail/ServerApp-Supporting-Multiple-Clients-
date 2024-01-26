@@ -1,7 +1,7 @@
 # ServerApp
 C# server application implementing asynchronous programming and Task.Run to handle multiple clients concurrently. #CSharp #AsyncProgramming #UniProject 🚀🌐
 
-DynamicServer - Empowering Seamless Client Interactions 🌍
+**DynamicServer - Empowering Seamless Client Interactions 🌍**
 Welcome to DynamicServer, a C# backend powerhouse designed for optimal client-server communication. This server employs advanced async programming techniques and Task.Run to ensure efficient handling of concurrent client connections.
 
 Key Features 🚀
